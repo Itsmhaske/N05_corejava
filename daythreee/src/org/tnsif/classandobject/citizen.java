@@ -11,7 +11,7 @@ public class citizen {
 	{
 		System.out.println("Demonstration on default constructor");
 	}
-	public citizen(String citizenType,long aadharNo, String gender,String city)
+	public citizen(String citizenType,long aadharNo, String gender,String city) {
 	super();
 	this.citizenType=citizenType;
 	this.aadharNo=aadharNo;

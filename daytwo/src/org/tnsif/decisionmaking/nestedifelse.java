@@ -28,8 +28,9 @@ public class nestedifelse {
 		
 		else
 		{
-			System.out.printLn("not eligibale");
+			System.out.print("not eligibale");
 		}
 		s.close();
 
+}
 }

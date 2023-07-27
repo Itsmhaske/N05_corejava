@@ -3,7 +3,8 @@ package org.tnsif.jumping;
 public class breakexecuter {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("");
+		int n = 6;
 		for(int i=1;i<=n;i++)
 		{  
 			if(i==5)

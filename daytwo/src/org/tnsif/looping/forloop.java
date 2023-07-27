@@ -9,13 +9,13 @@ public class forloop {
 		int num=s.nextInt();
 		for(int i=1;i<=num;i++)
 		{
-			for(int j=1;j<=num;j++)
+			for(int j=1; j<=i; j++)
 			{
-			System.out.print();
+			System.out.print("*");
 			}
-           System.out.print("*");
-	}
-           System.out.print();
-}
-      s.close();
+			System.out.println();
+
+		}
+		}
+     
 }
